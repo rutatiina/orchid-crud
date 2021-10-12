@@ -1,16 +1,16 @@
 {
-    "name": "orchid/crud",
+    "name": "rutatiina/orchid-crud",
     "description": "Build CRUD apps in fewer lines of code for Laravel Orchid.",
     "keywords": [
         "orchid",
         "crud"
     ],
-    "homepage": "https://github.com/orchid/crud",
+    "homepage": "https://github.com/rutatiina/orchid-crud",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alexandr Chernyaev",
-            "email": "bliz48rus@gmail.com",
+            "name": "Gilbert Rutatiina",
+            "email": "rutatiina@gmail.com",
             "role": "Developer"
         }
     ],
